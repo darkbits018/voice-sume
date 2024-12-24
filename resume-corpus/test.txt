@@ -1,0 +1,1280 @@
+application analyst java:Java_Developer
+
+disa, network engineer/systems administrator:Systems_Administrator,Network_Administrator
+
+database administrator/application support specialist:Database_Administrator
+
+ui developer/admin:Front_End_Developer
+
+junior associate database administrator:Database_Administrator
+
+microsoft mcsa 2008/2012, windows server 2008/2012 enterprise server administration - mcitp, windows server 2008/2012 server administration, mcse 2003/2008 + security, mcse 2003/2008 + exchange, exchange 2007, comptia a+, comptia network + (10+ years):Network_Administrator
+
+integration project manager:Project_manager
+
+system administrator/purchasing agent:Systems_Administrator
+
+sql server database administrator /consultant:Database_Administrator
+
+helpdesk manager/network administrator:Network_Administrator
+
+project manager (national tb project):Project_manager
+
+systems administrator, contractor:Systems_Administrator
+
+systems and vmware administrator:Systems_Administrator
+
+tactical systems program manager:Project_manager
+
+senior oracle database administrator/developer:Database_Administrator
+
+sr. it project manager-oakbrook, il:Project_manager
+
+information technology manager and network / systems administrator:Systems_Administrator,Network_Administrator
+
+information systems technical specialist:Systems_Administrator
+
+security analyst - it client support:Security_Analyst
+
+senior software advisor/ java developer/tech lead:Java_Developer,Software_Developer
+
+linux systems administrator l2:Systems_Administrator
+
+sql server dba:Database_Administrator
+
+operations specialist | information systems technician:Systems_Administrator
+
+network administrator (sa):Network_Administrator
+
+interactive developer, ui/ux specialist:Front_End_Developer
+
+network / systems administrator - consultant:Systems_Administrator,Network_Administrator
+
+salesforce-( it) project manager:Project_manager
+
+database security administrator:Database_Administrator
+
+agile project manager/scrum master:Project_manager
+
+sr. .net/ui developer:Web_Developer,Front_End_Developer
+
+mssql database administrator:Database_Administrator
+
+work as a project supervisor and design manager:Project_manager
+
+project manager - new product introduction:Project_manager
+
+director of program management/ lead project manager:Project_manager
+
+r&d software developer intern:Software_Developer
+
+assistant project manager:Project_manager
+
+c language developer & unix developer & oracle forms developer & oracle dba & developer:Database_Administrator
+
+lead ux/ ui designer & front- end ui developer:Front_End_Developer
+
+java, j2ee, spring v3.x, spring mvc, hibernate v3.0, oracle db, angular-js, node js, react js, redux,bootstrap, css, html5, javascript, jquery, ajax, git, intellij,dbvisualizer, tomcat, jboss, svn, maven, jira, soap/restful web services, redhat linux, jenkins, wsdl, spring based microservices, agile, cucumber, aws.:Java_Developer
+
+it specialist/ it project manager:Project_manager
+
+lead database engineer:Database_Administrator
+
+information security officer / security architect:Security_Analyst
+
+security engineer/ it security tool engineer/manager(secops):Security_Analyst
+
+team lead of global development team building java middle tier/backend applications:Java_Developer
+
+account executive/ project manager:Project_manager
+
+it support, cyber security analyst:Security_Analyst
+
+freelance visual designer / front end developer:Front_End_Developer
+
+art director / designer / web developer / online marketer:Web_Developer
+
+dc - software engineer:Software_Developer
+
+freelance web developer and ui designer:Web_Developer,Front_End_Developer
+
+security provisioning analyst:Security_Analyst
+
+manager, it project management office (consultant):Project_manager
+
+teradata database administrator:Database_Administrator
+
+python, selenium webdriver, sql, javascript, flask, jquery, http, html, css:Python_Developer
+
+lead front- end web developer/seo specialist:Web_Developer,Front_End_Developer
+
+lead database administrator (dba):Database_Administrator
+
+java/application developer:Java_Developer,Software_Developer
+
+web/ios developer intern:Web_Developer
+
+owner / project manager, it consultant:Project_manager
+
+ux/ui designer, senior web developer:Web_Developer,Front_End_Developer
+
+system administrator for operating systems:Systems_Administrator
+
+software implementation (less than 1 year):Software_Developer
+
+developer / database administrator:Database_Administrator
+
+network applications engineer:Network_Administrator
+
+informatica /database developer:Database_Administrator
+
+systems administrator ii (infrastructure):Systems_Administrator
+
+photographer / assistant database administrator:Database_Administrator
+
+sr.net developer/ ui developer:Front_End_Developer
+
+network security/threat intelligence analyst:Network_Administrator,Security_Analyst
+
+windows network administrator:Network_Administrator
+
+software developer/qa analyst:Software_Developer
+
+network administrator/project coordinator:Network_Administrator
+
+disa jsp v&v analyst/blue team security auditor:Security_Analyst
+
+it and privacy security analyst (remote):Security_Analyst
+
+database manager/sr. oracle dba/lead:Database_Administrator
+
+project manager, quality assurance and licensing:Project_manager
+
+freelancer front- end developer/designer:Front_End_Developer
+
+network engineer/security - project manager:Project_manager,Network_Administrator,Security_Analyst
+
+security analyst i:Security_Analyst
+
+security / network consultant:Network_Administrator,Security_Analyst
+
+software engineer, emerging technologies:Software_Developer
+
+manager, application & performance architect, project lead, technical sales lead, and developer:Software_Developer,Project_manager
+
+director of human resources & project manager ( it externship):Project_manager
+
+sr. systems engineer (linux admin):Systems_Administrator
+
+system analyst- security operations:Security_Analyst
+
+it operations manager/programmer analyst:Project_manager
+
+senior information systems administrator for the enterprise information management department:Systems_Administrator
+
+project manager/store manager:Project_manager
+
+project manager and database administrator:Database_Administrator,Project_manager
+
+senior systems / infrastructure engineer:Systems_Administrator
+
+web/mobile application developer:Web_Developer,Software_Developer
+
+it sr. project manager consultant:Project_manager
+
+asst. it manager:Project_manager
+
+lead magento 2/php developer/project manager:Project_manager
+
+network engineer, system administrator:Systems_Administrator,Network_Administrator
+
+program chief information security officer:Security_Analyst
+
+software engineer/tech architect/project lead:Software_Developer
+
+web developer/designer (student affairs):Web_Developer
+
+service delivery manager | it support:Project_manager
+
+manager, it infrastructure:Project_manager
+
+sr service manager / information security officer:Security_Analyst
+
+implementation project manager:Project_manager
+
+software/ web developer - independent contractor:Web_Developer,Software_Developer
+
+manager of it:Project_manager
+
+open source software developer:Software_Developer
+
+database developer iii:Database_Administrator
+
+system administrator, sr:Systems_Administrator
+
+desktop support/network administrator:Network_Administrator
+
+lead linux cloud/unix systems engineer:Systems_Administrator
+
+customer project manager ii:Project_manager
+
+consultant-data security analyst:Security_Analyst
+
+spotfire developer/ python:Python_Developer
+
+sr. software engineer / sr. manager, software development:Software_Developer
+
+sr. security operations analyst:Security_Analyst
+
+application development (3 years):Software_Developer
+
+wordpress developer/ web designer (free-lancer):Web_Developer
+
+business intelligence lead developer / senior data warehouse dba:Database_Administrator
+
+sr. it specialist/ project manager:Project_manager
+
+project manager/ software developer intern:Software_Developer,Project_manager
+
+freelance software developer - php:Software_Developer
+
+senior it project manager/agile coach:Project_manager
+
+senior network administrator & engineer:Network_Administrator
+
+project manager coordinator, point-of-sale help desk support:Project_manager
+
+acquisition program manager:Project_manager
+
+software developer & analyst:Software_Developer
+
+sr. project manager, infrastructure:Project_manager
+
+it network lead/manager:Project_manager
+
+web developer and digital strategist:Web_Developer
+
+business development project manager:Project_manager
+
+infrastructure cyber security analyst:Security_Analyst
+
+gotransverse - software support engineer:Software_Developer
+
+web designer/ui designer/lead front- end drupal web developer:Web_Developer,Front_End_Developer
+
+sql server database administrator & developer:Database_Administrator
+
+web developer for client falcon technologies:Web_Developer
+
+network & security consultant:Network_Administrator,Security_Analyst
+
+cyber security analyst - ic watch office (night shift):Security_Analyst
+
+it systems support specialist/ jr. systems administrator:Systems_Administrator
+
+java- front end developer:Java_Developer,Front_End_Developer
+
+webmaster/ web developer:Web_Developer
+
+java security developer:Java_Developer
+
+net developer / web developer / consultant:Web_Developer
+
+hp technical services customer program/ project manager:Project_manager
+
+database administrator / finance specialist ii:Database_Administrator
+
+consultant systems administrator:Systems_Administrator
+
+java engineer supply chain:Java_Developer
+
+network- systems field engineer / project manager:Systems_Administrator,Project_manager,Network_Administrator
+
+ui front-end developer:Front_End_Developer
+
+information security specialist:Security_Analyst
+
+help desk administrator/it assistant to it manager:Project_manager
+
+database and linguistics engineer:Database_Administrator
+
+reactjs application developer:Software_Developer
+
+website developer and web administrator:Web_Developer
+
+senior database administrator / developer:Database_Administrator
+
+principle software engineer:Software_Developer
+
+cisco network engineer:Network_Administrator
+
+senior j2ee developer/ team lead:Java_Developer,Web_Developer
+
+programmer/data analyst - c#/access/excel/vba/oracle/ python/ crystal reports/ msbi (ssis(etl)/ssas:Python_Developer
+
+front- end developer (randstad consultant):Front_End_Developer
+
+senior managing security consultant:Security_Analyst
+
+front-end web developer:Web_Developer,Front_End_Developer
+
+service manager/ it change manager:Project_manager
+
+network design engineer iv:Network_Administrator
+
+front- end web developer/graphic designer:Web_Developer,Front_End_Developer
+
+scrum master/pmo project manager:Project_manager
+
+research assistant - junior python developer:Python_Developer
+
+centurylink, java developer:Java_Developer
+
+database administrator/programmer analyst:Database_Administrator
+
+java se 1.7, eclipse, junit,m, c#, rational software architect, design patterns, sql, microsoft studio 2008, html 5, css 3, mysql/postgresql, c, notepad ++/ emacs, python 3.3, aptana studio, ada, gnat programming studio, android, android studio/intellij idea, windows/unix, design patterns, oop:Java_Developer,Software_Developer
+
+it business project manager:Project_manager
+
+application software developer:Software_Developer
+
+python developer/config engineer for custom full stack:Python_Developer
+
+ux strategist |process engineer |software project manager:Project_manager
+
+remote information security analyst:Security_Analyst
+
+sr. software engineer ( python/php, javascript/typescript):Python_Developer,Software_Developer
+
+front end developer / designer - part-time offsite:Front_End_Developer
+
+network administrator/client support specialist:Network_Administrator
+
+intern junior database administrator:Database_Administrator
+
+software eng./java programmer:Java_Developer
+
+e-5 network administrator:Network_Administrator
+
+mysql database developer & administrator:Database_Administrator
+
+php developer, web designer:Web_Developer
+
+junior software qa engineer:Software_Developer
+
+it manager, project manager, team lead/senior administrator:Project_manager
+
+it senior delivery manager - medicare advantage emerging markets:Project_manager
+
+applications system administrator:Systems_Administrator
+
+sr. it project manager (contractor):Project_manager
+
+senior it project manager / senior business systems analyst:Project_manager
+
+full stack developer/ui developer:Front_End_Developer
+
+java/ front end developer:Java_Developer,Front_End_Developer
+
+risk manager, it security:Project_manager,Security_Analyst
+
+lead project manager/application manager/scrum master:Project_manager
+
+it manager/ it auditor:Project_manager
+
+mobile programming - software developer:Software_Developer
+
+enterprise it security specialist / senior network security analyst:Network_Administrator,Security_Analyst
+
+systems engineer directech:Systems_Administrator
+
+freelance ui/ux designer & developer:Front_End_Developer
+
+project manager - construction:Project_manager
+
+application and database administrator:Database_Administrator
+
+it security consultant - vendor risk assessments:Security_Analyst
+
+program manager for the veterans administration in hines, il:Project_manager
+
+sr. it program manager/ product manager under epmo:Project_manager
+
+program manager | application & product security | risk management & enterprise assurance:Project_manager
+
+network / helpdesk administrator:Network_Administrator
+
+it cyber security analyst / it auditor:Security_Analyst
+
+system administrator / it specialist:Systems_Administrator
+
+sql production dba:Database_Administrator
+
+field support engineer / systems administrator:Systems_Administrator
+
+development solutions as manager of the software development team:Software_Developer
+
+information security analyst/consultant:Security_Analyst
+
+deployment software engineer:Software_Developer
+
+client services and project manager, r&d information systems:Project_manager
+
+software developer/team lead:Software_Developer
+
+senior unix system administrator/oracle database administrator:Database_Administrator,Systems_Administrator
+
+ehr/ it project manager:Project_manager
+
+senior enterprise project manager, it:Project_manager
+
+help desk/system/ network administrator:Systems_Administrator,Network_Administrator
+
+systems security analyst, host based security (hbss):Security_Analyst
+
+senior database admin:Database_Administrator
+
+database administrator / admin assistant:Database_Administrator
+
+sr. database administrator/developer:Database_Administrator
+
+frontend web developer intern:Web_Developer,Front_End_Developer
+
+assoc security analyst:Security_Analyst
+
+cisco network engineering consultant:Network_Administrator
+
+project manager/staff engineer:Project_manager
+
+statistician - database administrator:Database_Administrator
+
+systems administrator/data center administrator:Systems_Administrator
+
+telecommunications manager / sr. network administrator:Network_Administrator
+
+web content developer / project manager:Web_Developer,Project_manager
+
+senior product/ project manager (remote):Project_manager
+
+software engineer (java, python, sql server, msbi, c#):Python_Developer,Software_Developer
+
+web developer & web designer:Web_Developer
+
+it project manager/av systems engineer:Systems_Administrator,Project_manager
+
+java/ j2ee 1.8, restful web services, soap web services, soap ui, spring mvc, spring ioc, spring batch, spring security, spring boot, microservices, jdbc, jms,jpa, hibernate, apache poi, selenium web driver, junit, mockito, log4j, jsp,html,css, bootstrap, angularjs, node.js, less, bower, grunt, express js, uml, apache tomcat 7.0.x, mysql, mongodb, eclipse, maven, git, stash, jira. (8 years):Java_Developer
+
+it manager/systems administrator:Systems_Administrator,Project_manager
+
+systems administrator / network engineer:Systems_Administrator,Network_Administrator
+
+tier 1 &2 network engineer:Network_Administrator
+
+.net software engineer:Software_Developer
+
+sr. project manager (contractor):Project_manager
+
+software developer / systems administrator:Software_Developer,Systems_Administrator
+
+team lead \ systems administrator:Systems_Administrator
+
+vp, sr. oracle/linux/perl/ python developer:Python_Developer
+
+entry level/ jr it security analyst:Security_Analyst
+
+sql developer/sql dba:Database_Administrator
+
+software developer / assistant database administrator:Database_Administrator,Software_Developer
+
+senior software engineer (employee):Software_Developer
+
+it project, construction manager:Project_manager
+
+sr. ui/ java developer:Java_Developer,Front_End_Developer
+
+php/ java developer:Java_Developer
+
+primary web developer:Web_Developer
+
+it security architect & project manager:Project_manager,Security_Analyst
+
+designer / it manager:Project_manager
+
+senior systems architect / engineer:Systems_Administrator
+
+database administrator jr level:Database_Administrator
+
+software developer/programmer:Software_Developer
+
+ui designer/ developer:Front_End_Developer
+
+dba and data security analyst:Database_Administrator,Security_Analyst
+
+software development, design, architect and lead:Software_Developer
+
+systems administrator / network administrator:Systems_Administrator,Network_Administrator
+
+web security engineer (contract):Security_Analyst
+
+system operating center engineer, technical assistant:Systems_Administrator
+
+java development tech lead:Java_Developer
+
+network / asterick administrator:Network_Administrator
+
+consultant - junior project manager:Project_manager
+
+senior telecommunications project manager:Project_manager
+
+developer (django, python, javascript):Python_Developer
+
+software engineer senior:Software_Developer
+
+distributed control system administrator:Systems_Administrator
+
+java developer/analyst:Java_Developer
+
+database administrator/office specialist:Database_Administrator
+
+sql database admin/analyst:Database_Administrator
+
+system/ network engineer:Systems_Administrator,Network_Administrator
+
+intern assistant project manager:Project_manager
+
+web developer / laravel developer:Web_Developer
+
+senior accounts payable specialist & systems administrator:Systems_Administrator
+
+application/ front- end developer:Software_Developer,Front_End_Developer
+
+software engineer/ web developer:Web_Developer,Software_Developer
+
+applications project manager:Project_manager
+
+front end developer (internship):Front_End_Developer
+
+program manager -continuous quality improvement:Project_manager
+
+system administrator \desktop support analyst:Systems_Administrator
+
+sr. windows systems admin:Systems_Administrator
+
+web developer and director of campus outreach:Web_Developer
+
+it security & compliance analyst (contract):Security_Analyst
+
+youth director/ network admin:Network_Administrator
+
+it project manager adp to workday implementation:Project_manager
+
+director it:Project_manager
+
+sql dba/datawarehouse developer:Database_Administrator
+
+network project engineer:Network_Administrator
+
+project manager - global it:Project_manager
+
+database security engineer (security project):Database_Administrator,Security_Analyst
+
+advisory software developer:Software_Developer
+
+sr. software architect:Software_Developer
+
+database entry administrator:Database_Administrator
+
+assistant application developer:Software_Developer
+
+consultant/ project manager:Project_manager
+
+eis infrastructure project manager:Project_manager
+
+senior security systems administrator:Systems_Administrator
+
+business relationship manager / it business:Project_manager
+
+network / sharepoint administrator:Network_Administrator
+
+career staff assistant - jobs4jackets database administrator:Database_Administrator
+
+lead systems administrator for standard procurement desktop:Systems_Administrator
+
+assistant manager / it specialist:Project_manager
+
+network administrator for marine corps (4 years):Network_Administrator
+
+sr. email security analyst & messaging anti-abuse administrator:Security_Analyst
+
+field technician/ systems administrator:Systems_Administrator
+
+network and systems administrator / web services support technician:Systems_Administrator,Network_Administrator
+
+cyber project manager:Project_manager
+
+sr. it program manager / pmo:Project_manager
+
+it manager ati:Project_manager
+
+hyderabad as senior software engineer:Software_Developer
+
+trainee network engineer:Network_Administrator
+
+it project manager/ scrum master/agile coach:Project_manager
+
+office manager / it consultant:Project_manager
+
+network development/ trainer/prior authorization coordinator/ contract administrator:Network_Administrator
+
+systems engineer lvl. 2:Systems_Administrator
+
+sr. lead systems security analyst iv:Security_Analyst
+
+security & controls analyst:Security_Analyst
+
+database administrator/ developer:Database_Administrator
+
+project manager, finance projects, pmo:Project_manager
+
+jr. systems administrator, lycee rochambeau:Systems_Administrator
+
+it operations manager/ project manager:Project_manager
+
+automation software developer:Software_Developer
+
+full stack react/ python developer:Python_Developer
+
+lead systems administrator and planner:Systems_Administrator
+
+interim raiser's edge donor database administrator:Database_Administrator
+
+it systems support administrator:Systems_Administrator
+
+database assistant administrator and desktop support:Database_Administrator
+
+network systems administrator/technician:Systems_Administrator,Network_Administrator
+
+front end web developer, yagé:Web_Developer,Front_End_Developer
+
+college aide software development intern:Software_Developer
+
+freelance graphic designer/ web developer:Web_Developer
+
+senior developer software team leader:Software_Developer
+
+third party information security risk analyst:Security_Analyst
+
+project manager / team lead:Project_manager
+
+sr. java (android)/ python/triage engineer:Java_Developer,Python_Developer
+
+iphone application developer-intern:Software_Developer
+
+junior windows systems engineer:Systems_Administrator
+
+junior full stack web developer:Web_Developer
+
+(contractor) - program manager:Project_manager
+
+senior it systems engineer - project:Systems_Administrator
+
+salesforce solution engineer & business systems analyst:Systems_Administrator
+
+national data warehouse/ database administrator:Database_Administrator
+
+sr. it project manager / pmo manager:Project_manager
+
+solution architect / deputy project manager:Project_manager
+
+it compliance manager:Project_manager
+
+teacher/ network administrator:Network_Administrator
+
+it associate manager:Project_manager
+
+it deputy program manager:Project_manager
+
+front- end web developer/designer intern:Web_Developer,Front_End_Developer
+
+network design engineer ii:Network_Administrator
+
+it cyber security project manager, national health insurance project (nhia) project:Project_manager,Security_Analyst
+
+junior python developer and qa tester:Python_Developer
+
+agile java developer:Java_Developer
+
+creative director & project manager:Project_manager
+
+it/agile project manager (pmo) & it leadership development program participant:Project_manager
+
+software engineer / developer:Software_Developer
+
+project manager and pmo liaison:Project_manager
+
+software developer - i3 global contractor:Software_Developer
+
+software architect/technical fellow:Software_Developer
+
+security analyst (contractor through teksystems):Security_Analyst
+
+mars system administrator:Systems_Administrator
+
+manager of application development:Software_Developer
+
+senior web developer / webmaster:Web_Developer
+
+contract web designer & front- end developer:Web_Developer,Front_End_Developer
+
+server administrator/ network engineer:Network_Administrator
+
+systems administrator / project manager / it generalist:Systems_Administrator,Project_manager
+
+senior network program manager:Project_manager
+
+it support services manager:Project_manager
+
+as400 developer (senior software engineer):Software_Developer
+
+frontend developer & lead ux developer:Front_End_Developer
+
+angular- python developer:Python_Developer
+
+front-end web development instructor:Front_End_Developer
+
+telecom program manager:Project_manager
+
+program project manager:Project_manager
+
+senior project manager (contractor):Project_manager
+
+java/j2ee integration developer:Java_Developer,Web_Developer
+
+java developer (tdp rotation 2):Java_Developer
+
+network test engineer / intel contractor of microprocessor and networking production company:Network_Administrator
+
+webmaster / front end developer:Front_End_Developer
+
+senior research analyst/database administrator division 20 cnwra:Database_Administrator
+
+systems administrator i - ii:Systems_Administrator
+
+network engineer (msoc iii):Network_Administrator
+
+national marketing database administrator:Database_Administrator
+
+it project, program & resource manager:Project_manager
+
+python developer & quality assurance engineer:Python_Developer
+
+it service manager (project manager):Project_manager
+
+security operations analyst:Security_Analyst
+
+it project coordinator / installer lead:Project_manager
+
+senior systems/ sharepoint administrator:Systems_Administrator
+
+senior project manager, integrated solutions marketing:Project_manager
+
+jr. sql server database administrator/engineer:Database_Administrator
+
+sr. it project manager/ business analyst:Project_manager
+
+sr. backend developer:Software_Developer
+
+web designer / developer / seo (contract):Web_Developer
+
+associate it security analyst:Security_Analyst
+
+it technician iii and acting it manager:Project_manager
+
+ios mobile application developer:Software_Developer
+
+it systems manager:Project_manager
+
+analyst and python developer:Python_Developer
+
+senior project manager & information security lead:Project_manager
+
+web developer front end/desktop support:Web_Developer,Front_End_Developer
+
+software engineer (java | j2ee | jsp | servlet | jsf-primefaces | spring boot | hibernate | software engineer asp.net webforms | sql server | mysql | oracle) (3 years):Java_Developer,Web_Developer,Software_Developer
+
+network administrator & computer technician:Network_Administrator
+
+sr. systems administrator iii/iv:Systems_Administrator
+
+systems administrator ( contract ):Systems_Administrator
+
+operations manager iv- it rfs - data security:Project_manager,Security_Analyst
+
+java front end /reactjs/ web developer:Java_Developer,Web_Developer,Front_End_Developer
+
+systems engineer / systems administrator:Systems_Administrator
+
+400 and database administrator:Database_Administrator
+
+database administrator/ database developer:Database_Administrator
+
+network administrator at "agence des prestation maritime":Network_Administrator
+
+senior database administrator contract dba at gte data services:Database_Administrator
+
+network analyst:Network_Administrator
+
+front end development manager:Front_End_Developer
+
+role - sr. python developer:Python_Developer
+
+system administrator / deskside support:Systems_Administrator
+
+senior java developer/angular js:Java_Developer
+
+sql server database administrator/sql developer:Database_Administrator
+
+director of it/ network administrator:Project_manager,Network_Administrator
+
+it delivery assurance manager:Project_manager
+
+senior front- end developer & art director:Front_End_Developer
+
+lead software development engineer:Software_Developer
+
+network engineer / lead programmer:Network_Administrator
+
+operational program manager:Project_manager
+
+#system analyst, python django developer:Web_Developer,Python_Developer
+
+web application scanner (2 years):Web_Developer
+
+security consultant (contractor):Security_Analyst
+
+unix administrator/network administrator:Network_Administrator
+
+developer and software engineer:Software_Developer
+
+senior oracle and java developer:Java_Developer
+
+it manager administrative assistant:Project_manager
+
+java developer, argusoft:Java_Developer
+
+senior ui/web developer:Web_Developer,Front_End_Developer
+
+sr. information security consultant/ architect:Security_Analyst
+
+i.t. manager and facility security officer:Project_manager
+
+sole database administrator:Database_Administrator
+
+it technical lead & cybersecurity analyst:Security_Analyst
+
+service management, it project manager:Project_manager
+
+it manager/network administrator / web developer / graphic designer:Web_Developer,Software_Developer,Project_manager,Network_Administrator
+
+dba/web developer:Database_Administrator,Web_Developer
+
+oracle developer / database admin:Database_Administrator
+
+erp project manager, pmo:Project_manager
+
+java developer and testing:Java_Developer
+
+front end developer free lance:Front_End_Developer
+
+head systems/network administrator:Systems_Administrator,Network_Administrator
+
+it manager/ software developer:Software_Developer,Project_manager
+
+agile software development (5 years):Software_Developer
+
+security risk assessment analyst (consultant):Security_Analyst
+
+software developer and consultant:Software_Developer
+
+senior system administrator, starhrg:Systems_Administrator
+
+junior system/ network administrator:Systems_Administrator,Network_Administrator
+
+contractor, information security analyst:Security_Analyst
+
+program manager - consultant:Project_manager
+
+application/ software developer i:Software_Developer
+
+java full stack/ui developer:Java_Developer,Front_End_Developer
+
+manager of it / system administrator:Systems_Administrator,Project_manager
+
+member manager- confident it:Project_manager
+
+systems administrator (microsoft datacenter):Systems_Administrator
+
+sr. security analyst sr. cyber intelligence:Security_Analyst
+
+pmo manager / program manager:Project_manager
+
+jr. java developer intern:Java_Developer
+
+full stack developer - front- end focused:Front_End_Developer
+
+database administrator/project manager:Database_Administrator,Project_manager
+
+junior web developer (internship):Web_Developer
+
+manager systems network administrator / desktop support - exchange office:Systems_Administrator,Network_Administrator
+
+java/ java ee developer:Java_Developer
+
+database administrator/ database manager:Database_Administrator
+
+it security analyst & project administrator intern:Security_Analyst
+
+it program manager / project manager / pmo consultant:Project_manager
+
+java/jee architect/ developer:Java_Developer
+
+software engineer .net technology:Software_Developer
+
+python developer and product management intern, globalization services:Python_Developer
+
+incident response center analyst, it project manager:Project_manager
+
+gmna mainframe security analyst:Security_Analyst
+
+lead python developer (contract):Python_Developer
+
+production database administrator (remote consultant):Database_Administrator
+
+web developer / webmaster:Web_Developer
+
+web developer (4 years):Web_Developer
+
+web developer and accessibility intern:Web_Developer
+
+it security stg infrastructure consultant:Security_Analyst
+
+assistant project manager (global buildings & infrastructure):Project_manager
+
+software developer (angular5/ web api):Web_Developer,Software_Developer
+
+lenovo - senior information security specialist:Security_Analyst
+
+founder & software engineer:Software_Developer
+
+sr. web developer & ui/ux front- end developer (team lead):Web_Developer,Front_End_Developer
+
+django - python (3 years):Python_Developer
+
+pa - software developer:Software_Developer
+
+web application developer / project manager:Web_Developer,Software_Developer,Project_manager
+
+php application developer:Software_Developer
+
+project manager & solutions engineer:Project_manager
+
+senior lan manager and network administrator:Network_Administrator
+
+web developer mentor:Web_Developer
+
+principal project manager, chief of staff:Project_manager
+
+database specialist /systems analyst /systems administrator:Database_Administrator,Systems_Administrator
+
+mysql database engineer:Database_Administrator
+
+ui/web developer:Web_Developer,Front_End_Developer
+
+web developer and front end jquery specialist:Web_Developer,Front_End_Developer
+
+it specialist/jr. web developer:Web_Developer,Software_Developer
+
+freelance software engineer:Software_Developer
+
+web developer, excelsior marketing:Web_Developer
+
+software support analyst/ program manager:Project_manager
+
+network support coordinator/ network administrator:Network_Administrator
+
+program manager, asug executive exchange:Project_manager
+
+deputy project manager-operations:Project_manager
+
+principle web developer - global online sales (gos):Web_Developer
+
+it consultant/network administrator:Network_Administrator
+
+software developer/ front end developer:Software_Developer,Front_End_Developer
+
+web developer web designer:Web_Developer
+
+software engineer, architect & developer, salesforce development / administrator:Software_Developer
+
+head it security analyst:Security_Analyst
+
+supervisor, software development:Software_Developer
+
+it pmo project coordinator / business analyst for the city of san diego:Project_manager
+
+technical project manager - rightsline project:Project_manager
+
+junior front- end web developer:Web_Developer,Front_End_Developer
+
+linux/unix systems administrator & security architect:Systems_Administrator
+
+network engineer / lotus domino, notes, and windows nt:Network_Administrator
+
+managing consultant/ security expert:Security_Analyst
+
+gis data manager, c#, python, accessvba programmer:Python_Developer
+
+systems administrator / engineer:Systems_Administrator
+
+program/ project manager and it partner:Project_manager
+
+java j2ee front end developer:Java_Developer,Web_Developer,Front_End_Developer
+
+aws/python developer:Python_Developer
+
+sr. oracle dba/developer:Database_Administrator
+
+unix systems administrator - school of computer science:Systems_Administrator
+
+marketing manager/ web developer:Web_Developer
+
+senior javascript/php/ python engineer:Python_Developer
+
+it project manager (independent contractor):Project_manager
+
+gis python database developer:Database_Administrator,Python_Developer
+
+helpdesk computer technician/ systems administrator:Systems_Administrator
+
+sql server dba/ web application developer:Database_Administrator,Web_Developer,Software_Developer
+
+software test engineer (telecommunications industry):Software_Developer
+
+project manager and software engineer:Software_Developer,Project_manager
+
+senior .net software engineer:Software_Developer
+
+jr. system engineer:Systems_Administrator
+
+software development & support analyst intern:Software_Developer
+
+supervisory it program manager:Project_manager
+
+java developer/ front end developer:Java_Developer,Front_End_Developer
+
+network engineer & system admin:Systems_Administrator,Network_Administrator
+
+health systems administrator:Systems_Administrator
+
+dba (1 year):Database_Administrator
+
+junior systems administrator / technical support engineer tier 1:Systems_Administrator
+
+c++/ java developer:Java_Developer
+
+database security architect consultant:Security_Analyst
+
+financial business analyst / database administrator:Database_Administrator
+
+sr. web applications developer:Web_Developer
+
+drupal /web developer:Web_Developer
+
+lead software engineer ii:Software_Developer
+
+senior java developer / architect:Java_Developer
+
+software development project coordinator:Software_Developer
+
+it/database manager:Project_manager
+
+project manager office itperformance:Project_manager
+
+front- end developer / designer / it:Software_Developer,Front_End_Developer
+
+senior it project manager, security, application development:Software_Developer,Project_manager,Security_Analyst
+
+cyber privacy and security analyst:Security_Analyst
+
+cyber network administrator:Network_Administrator
+
+project manager contractor public trust clearance in progress:Project_manager
+
+sr. engineered systems engineer:Systems_Administrator
+
+installer/ project manager:Project_manager
+
+information security engineer/ analyst iii:Security_Analyst
+
+it healthcare project manager/business analyst:Project_manager
+
+junior hpc systems administrator:Systems_Administrator
+
+database/junior java web developer:Database_Administrator,Java_Developer,Web_Developer
+
+systems administrator/microsoft exchange engineer:Systems_Administrator
+
+technical it lead/business analyst/ project manager:Project_manager
+
+systems administrator/ installer:Systems_Administrator
+
+i.t. applications manager:Project_manager
+
+project manager of it architects and it specialists:Project_manager
+
+project execution manager:Project_manager
+
+prepress & it manager:Project_manager
+
+consultant - system administrator (remote):Systems_Administrator
+
+lead database administrator / lead technical specialist:Database_Administrator
+
+systems administrator/ it manager, sr. it infrastructure project manager:Systems_Administrator,Project_manager
+
+java, j2ee, jsp, struts, spring, hibernate, xml and markup languages. java beans, html4, dhtml, javascript, css, pl/sql, c++, unix korn shell,oracle 8/8i/9i, sql, oltp, rdbms:Java_Developer
+
+network engineer (consultant):Network_Administrator
+
+senior systems administrator/vmware vcp:Systems_Administrator
+
+software engineer / security analyst:Software_Developer,Security_Analyst
+
+it manager/ systems administrator:Systems_Administrator,Project_manager
+
+front end developer / seo optimization:Front_End_Developer
+
+senior project manager/scrum master - iot passenger experience (contract):Project_manager
+
+global it manager, client infrastructure:Project_manager
+
+engineering systems manager/ systems administrator:Systems_Administrator
+
+project and reporting manager - telecom:Project_manager
+
+it security analyst consultant:Security_Analyst
+
+sr. vax systems engineer:Systems_Administrator
+
+software developer - internship:Software_Developer
+
+software engineer ( python/javascript):Python_Developer,Software_Developer
+
+senior systems administrator for scom and sccm:Systems_Administrator
+
+project manager/ implementation services:Project_manager
+
+business systems analyst/ administrator:Systems_Administrator
+
+senior it network engineer:Network_Administrator
+
+senior database administrator technical specialist:Database_Administrator
+
+network administrator / interim it director (past 2 months):Project_manager,Network_Administrator
+
+technical project manager / fulfillment manager:Project_manager
+
+senior python software engineer /data scientist:Python_Developer,Software_Developer
+
+project manager- it:Project_manager
+
+java - developer:Java_Developer
+
+it principal project manager - product development it:Project_manager
+
+front end web developer front end web developer:Web_Developer,Front_End_Developer
+
+software engineer, various contracts:Software_Developer
+
+network administrator trainee:Network_Administrator
+
+senior application developer cum team lead:Software_Developer
+
+associate professional database engineer - operations team, boeing:Database_Administrator
+
+software scientist / database administrator / technical manager:Database_Administrator
+
+systems engineer/ project manager:Systems_Administrator,Project_manager
+
+security analyst to the federal communications commission:Security_Analyst
+
+web- developer/graphic design:Web_Developer
+
+senior front- end ui/ux developer:Front_End_Developer
+
+director assistant/ it project coordinator:Project_manager
+
+oracle database administrator at new avon:Database_Administrator
+
+junior system administrator:Systems_Administrator
+
+web developer - consultant:Web_Developer
+
+project manager/developer/network engineer:Project_manager,Network_Administrator
+
+network and database administrator:Database_Administrator,Network_Administrator
+
+security it project manager:Project_manager,Security_Analyst
+
+paralegal/ computer network analyst:Network_Administrator
+
+consultant/ software developer/architect for bp (british petroleum) project:Software_Developer
+
+program manager consultant, dodd frank implementation:Project_manager
+
+owner/senior web developer:Web_Developer
+
+it manager/operations manager:Project_manager
+
+system administrator/ data network specialist in iii marine expeditionary force:Systems_Administrator,Network_Administrator
+
+consultant/ python web programmer:Python_Developer
+
+python django backend web developer:Web_Developer,Python_Developer,Software_Developer
+
+senior front- end developer & ui/ux designer:Front_End_Developer
+
+network engineer and administrator:Network_Administrator
+
+lead engineer, senior architect, dba iii:Database_Administrator
+
+it cyber security manager - project manager:Project_manager,Security_Analyst
+
+contract technical project manager (iepm):Project_manager
+
+lead sql server dba:Database_Administrator
+
+oracle lead dba/developer:Database_Administrator
+
+it service project manager:Project_manager
+
+it clinical operational project manager:Project_manager
+
+it helpdesk/ system administrator:Systems_Administrator
+
+systems administrator and perl coder:Systems_Administrator
+
+computer operator/ web developer:Web_Developer
+
+web and mobile developer:Web_Developer
+
+systems administrator/data center manager:Systems_Administrator
+
+it project manager & infra:Project_manager
+
+db2 dba & developer:Database_Administrator
+
+sql server database administrator (dba):Database_Administrator
+
+consultant / web developer:Web_Developer
+
