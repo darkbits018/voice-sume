@@ -1,0 +1,354 @@
+import json
+
+from flask import Flask, request, jsonify
+import os
+import google.generativeai as genai
+from dotenv import load_dotenv
+from ai_config import get_active_model, ACTIVE_MODEL
+
+# Load environment variables from .env file
+load_dotenv()
+
+app = Flask(__name__)
+
+# # Configure Google Generative AI
+# GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+# genai.configure(api_key=GOOGLE_API_KEY)
+#
+# # Initialize the Generative Model
+# model = genai.GenerativeModel('gemini-pro')
+
+
+def generate_response(prompt):
+    """
+    Generate a response using the active AI model.
+    """
+    model = get_active_model()
+
+    try:
+        if ACTIVE_MODEL == "gemini":
+            response = model.generate_content(prompt)
+            return response.text
+        elif ACTIVE_MODEL == "ollama":
+            response = model.generate(model=OLLAMA_MODEL_NAME, prompt=prompt)
+            return response["response"]
+        else:
+            raise ValueError("Unsupported model type.")
+    except Exception as e:
+        return str(e)
+
+def parse_education_with_ai(input_text):
+    """
+    Use AI to parse education input into structured data.
+    """
+    prompt = f"""
+    Extract the following details from the education input and return them in JSON format:
+    - Degree
+    - Specialization
+    - College Name
+    - Year of Completion
+    - CGPA/Percentage
+
+    Input: {input_text}
+
+    Example Output:
+    {{
+      "degree": "B.E",
+      "specialization": "CSE",
+      "college_name": "XYZ College",
+      "year_of_completion": "2019",
+      "cgpa_percentage": "8.5"
+    }}
+    """
+    return generate_response(prompt)
+
+
+def parse_internship_with_ai(input_text):
+    """
+    Use AI to parse internship input into structured data.
+    """
+    prompt = f"""
+    Extract the following details from the internship input and return them in JSON format:
+    - Company Name
+    - Duration
+    - Role/Responsibilities
+    - Technologies Used
+
+    Input: {input_text}
+
+    Example Output:
+    {{
+      "company_name": "ABC Corp",
+      "duration": "3 months",
+      "role_responsibilities": ["data cleaning", "visualization", "creating dashboards", "analyzing datasets"],
+      "technologies": ["Python", "Pandas"]
+    }}
+    """
+    return generate_response(prompt)
+
+
+def parse_project_with_ai(input_text):
+    """
+    Use AI to parse project input into structured data.
+    """
+    prompt = f"""
+    Extract the following details from the project input and return them in JSON format:
+    - Project Name
+    - Description
+    - Technologies Used
+    - Duration
+    - Role/Responsibilities
+
+    Input: {input_text}
+
+    Example Output:
+    {{
+      "project_name": "Resume Builder",
+      "description": "A web app to build resumes.",
+      "technologies": ["Python", "Flask"],
+      "duration": "2 months",
+      "role_responsibilities": ["Full-stack development", "UI/UX design"]
+    }}
+    """
+    return generate_response(prompt)
+
+
+def parse_certification_with_ai(input_text):
+    """
+    Use AI to parse certification input into structured data.
+    """
+    prompt = f"""
+    Extract the following details from the certification input and return them in JSON format:
+    - Certification Name
+    - Description
+    - Issued By
+
+    Input: {input_text}
+
+    Example Output:
+    {{
+      "certification_name": "Python for Data Science",
+      "description": "Certification in Python and data science.",
+      "issued_by": "Coursera"
+    }}
+    """
+    return generate_response(prompt)
+
+
+def generate_career_profile(job_role):
+    """
+    Generate a career profile for a fresher applying for a specific job role.
+    """
+    prompt = f"""
+    Generate a concise and engaging career profile for a fresher applying for the role of {job_role}. 
+    The profile should reflect enthusiasm, eagerness to learn, and a proactive attitude. 
+    Keep it short (3-4 lines) and include:
+    1. A brief introduction highlighting the fresher's interest in the field.
+    2. Key qualities or skills that make them a good fit for the role.
+    3. A statement expressing their excitement to contribute and grow in the organization.
+    """
+    return generate_response(prompt)
+
+
+def generate_roles_responsibilities(user_description):
+    """
+    Generate roles and responsibilities based on the user's description.
+    """
+    prompt = f"""
+    Based on the following description of previous job roles: {user_description}, 
+    generate a concise and professional list of roles and responsibilities in JSON format. 
+    Consider the experience level (e.g., fresher, junior, senior, intern) and avoid exaggerating responsibilities. 
+    Focus on extracting relevant details from the description and structure the output as follows:
+    {{
+      "job_position": "Job Position (if mentioned in the description)",
+      "key_responsibilities": [
+        "Responsibility 1",
+        "Responsibility 2",
+        "Responsibility 3",
+        "Responsibility 4"
+      ],
+      "skills_utilized": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3"
+      ]
+    }}
+    Ensure the output is realistic and aligns with the experience level.
+    """
+    return generate_response(prompt)
+
+
+import json
+
+import json
+import re
+
+
+def clean_json_response(response):
+    """
+    Remove Markdown code blocks (```json ... ```) from the response.
+    """
+    # Use regex to remove Markdown code blocks
+    cleaned_response = re.sub(r'```json|```', '', response).strip()
+    return cleaned_response
+
+
+def segregate_skills(skills_sentence, job_role):
+    """
+    Segregate skills into primary, secondary, and additional categories based on the user's sentence and job role.
+    """
+    prompt = f"""
+    The user has provided the following description of their skills: {skills_sentence}.
+    Their desired job role is: {job_role}.
+
+    Your task is to:
+    1. Extract the skills mentioned in the description.
+    2. Categorize them into primary, secondary, and additional skills based on relevance and importance for the job role.
+    3. Return the output in the following strict JSON format:
+    {{
+      "primary_skills": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3"
+      ],
+      "secondary_skills": [
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "additional_skills": [
+        "Skill 7",
+        "Skill 8",
+        "Skill 9"
+      ]
+    }}
+
+    Rules:
+    - Primary skills should be the most relevant and frequently used skills for the job role (limit to 3-5 skills).
+    - Secondary skills should be important but less frequently used for the job role (limit to 3-5 skills).
+    - Additional skills should be supplementary or less critical for the job role (limit to 3-5 skills).
+    - Ensure the output is a valid JSON object with the exact keys: "primary_skills", "secondary_skills", and "additional_skills".
+    - Each key must map to a list of strings (skills).
+    - Do not include any additional text, explanations, or Markdown formatting (e.g., ```json```) in the response. Only return the JSON object.
+    """
+    response = generate_response(prompt)  # Assuming generate_response is your AI function
+    print("Raw AI response:", response)  # Debugging: print the raw AI response
+
+    try:
+        # Clean the response to remove Markdown syntax
+        cleaned_response = clean_json_response(response)
+
+        # Parse the cleaned response as JSON
+        categorized_skills = json.loads(cleaned_response)
+
+        # Validate the response format
+        required_keys = ["primary_skills", "secondary_skills", "additional_skills"]
+        if not all(key in categorized_skills for key in required_keys):
+            return {"error": "AI response is missing required keys."}
+
+        # Ensure each key maps to a list
+        for key in required_keys:
+            if not isinstance(categorized_skills[key], list):
+                return {"error": f"AI response key '{key}' is not a list."}
+
+        # Ensure at least one skill is present in the response
+        if not any(categorized_skills.values()):
+            return {"error": "No skills found in the AI response."}
+
+        return categorized_skills
+
+    except json.JSONDecodeError:
+        return {"error": "Failed to parse AI response. Ensure the response is valid JSON."}
+    except Exception as e:
+        return {"error": f"An unexpected error occurred: {str(e)}"}
+
+
+# @app.route('/generate-career-profile', methods=['POST'])
+# def generate_career_profile():
+#     data = request.json
+#     job_role = data.get('job_role')
+#
+#     prompt = f"""
+#     Generate a concise and engaging career profile for a fresher applying for the role of {job_role}.
+#     The profile should reflect enthusiasm, eagerness to learn, and a proactive attitude.
+#     Keep it short (3-4 lines) and include:
+#     1. A brief introduction highlighting the fresher's interest in the field.
+#     2. Key qualities or skills that make them a good fit for the role.
+#     3. A statement expressing their excitement to contribute and grow in the organization.
+#     """
+#
+#     response = generate_response(prompt)
+#     return jsonify({"response": response})
+#
+#
+# @app.route('/generate-roles-responsibilities', methods=['POST'])
+# def generate_roles_responsibilities():
+#     data = request.json
+#     user_description = data.get('user_description')
+#
+#     prompt = f"""
+#     Based on the following description of previous job roles: {user_description},
+# generate a concise and professional list of roles and responsibilities in JSON format.
+# Consider the experience level (e.g., fresher, junior, senior, intern) and avoid exaggerating responsibilities.
+# Focus on extracting relevant details from the description and structure the output as follows:
+# {{
+#   "job_position": "Job Position (if mentioned in the description)",
+#   "key_responsibilities": [
+#     "Responsibility 1",
+#     "Responsibility 2",
+#     "Responsibility 3",
+#     "Responsibility 4"
+#   ],
+#   "skills_utilized": [
+#     "Skill 1",
+#     "Skill 2",
+#     "Skill 3"
+#   ]
+# }}
+# Ensure the output is realistic and aligns with the experience level.
+#     """
+#
+#     response = generate_response(prompt)
+#     return jsonify({"response": response})
+#
+#
+# @app.route('/segregate-skills', methods=['POST'])
+# def segregate_skills():
+#     data = request.json
+#     skills = data.get('skills')
+#
+#     prompt = f"""
+#     # Segregate the following skills into primary, secondary, and additional categories: {skills}.
+#     # Provide a structured output with clear distinctions between each category.
+#     The user has provided the following description of their skills: {skills}.
+#     Extract the skills mentioned and categorize them into primary, secondary, and additional skills based on relevance and importance.
+#     Return the output in the following JSON format:
+#     {{
+#       "primary_skills": [
+#         "Skill 1",
+#         "Skill 2",
+#         "Skill 3"
+#       ],
+#       "secondary_skills": [
+#         "Skill 4",
+#         "Skill 5",
+#         "Skill 6"
+#       ],
+#       "additional_skills": [
+#         "Skill 7",
+#         "Skill 8",
+#         "Skill 9"
+#       ]
+#     }}
+#     - Primary skills should be the most relevant and frequently used skills (limit to 3-5 skills).
+#     - Secondary skills should be important but less frequently used (limit to 3-5 skills).
+#     - Additional skills should be supplementary or less critical (limit to 3-5 skills).
+#     Prioritize the most relevant skills for each category.
+#     """
+#
+#     response = generate_response(prompt)
+#     return jsonify({"response": response})
+
+
+if __name__ == '__main__':
+    app.run(debug=True)

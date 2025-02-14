@@ -1,0 +1,37 @@
+import os
+import google.generativeai as genai
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
+
+# Define the active model (comment/uncomment to switch models)
+ACTIVE_MODEL = "gemini"  # Use Google Gemini
+# ACTIVE_MODEL = "ollama"  # Use Ollama locally
+
+# Configure Google Generative AI
+if ACTIVE_MODEL == "gemini":
+    GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
+    genai.configure(api_key=GOOGLE_API_KEY)
+    gemini_model = genai.GenerativeModel('gemini-pro')
+
+# Configure Ollama Local Model
+elif ACTIVE_MODEL == "ollama":
+    from ollama import Client  # Ensure Ollama Python client is installed
+
+    OLLAMA_MODEL_NAME = "llama2"  # Replace with your preferred Ollama model
+    ollama_client = Client()
+else:
+    OLLAMA_MODEL_NAME = None
+
+
+def get_active_model():
+    """
+    Return the active AI model based on the ACTIVE_MODEL variable.
+    """
+    if ACTIVE_MODEL == "gemini":
+        return gemini_model
+    elif ACTIVE_MODEL == "ollama":
+        return ollama_client
+    else:
+        raise ValueError("Unsupported model type. Set ACTIVE_MODEL to 'gemini' or 'ollama'.")
