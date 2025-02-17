@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Base URL of your Flask app
-BASE_URL = "http://127.0.0.1:5000"
+BASE_URL = "https://voice-sume.onrender.com"
 
 
 # Helper function to display responses
