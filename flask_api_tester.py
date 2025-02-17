@@ -3,7 +3,7 @@ import requests
 import speech_recognition as sr
 
 # Base URL of your Flask app
-BASE_URL = "http://127.0.0.1:80"
+BASE_URL = "http://127.0.0.1:5000"
 
 
 # Helper function to display responses
@@ -23,7 +23,6 @@ def get_voice_input():
         audio = recognizer.listen(source)
         try:
             text = recognizer.recognize_google(audio)
-            st.write(f"**You said:** {text}")
             return text
         except sr.UnknownValueError:
             st.error("Sorry, I could not understand the audio.")
@@ -57,12 +56,12 @@ def main():
     if choice == "Start Resume":
         st.header("Start Resume (Basic Information)")
         name = st.text_input("Name", "John Doe")
-        phone = st.text_input("Phone", "1234567890")
-        email = st.text_input("Email", "john.doe@example.com")
         if st.button("Use Voice Input for Name"):
             name = get_voice_input() or name
+        phone = st.text_input("Phone", "1234567890")
         if st.button("Use Voice Input for Phone"):
             phone = get_voice_input() or phone
+        email = st.text_input("Email", "john.doe@example.com")
         if st.button("Use Voice Input for Email"):
             email = get_voice_input() or email
         if st.button("Test /start-resume"):
