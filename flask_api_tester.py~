@@ -3,7 +3,7 @@ import requests
 import speech_recognition as sr
 
 # Base URL of your Flask app
-BASE_URL = "http://127.0.0.1:80"
+BASE_URL = "http://127.0.0.1:5000"
 
 
 # Helper function to display responses
